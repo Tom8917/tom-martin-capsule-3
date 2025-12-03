@@ -14,7 +14,7 @@ export default function Contact() {
     };
 
     return (
-        <div style={{ padding: "2rem" }}>
+        <div style={{ padding: "2rem", border: "solid black 1px" }}>
             <h1>Page Contact</h1>
 
             <form
